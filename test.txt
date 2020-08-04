@@ -1,1 +1,5 @@
-baru gan
+<<<<<<< HEAD
+Version 2
+=======
+lplpplplpl
+>>>>>>> parent of de7af98... baru gan
